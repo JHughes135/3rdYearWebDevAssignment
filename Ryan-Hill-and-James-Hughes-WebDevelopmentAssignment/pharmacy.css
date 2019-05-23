@@ -1,0 +1,70 @@
+ul {
+    background-color:#08f;
+	width:100%;
+	list-style-type:none;
+    margin:0px;
+    padding:0px;
+    overflow:hidden;
+	position:fixed;
+	top:0;
+}
+
+li a {
+
+    display:block;
+    color:white;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+}
+
+li a:hover {
+    background-color:#008;
+}
+
+li {
+    float:left;
+}
+
+
+h1 {
+	font-family:arial;
+	font-size:18pt;
+	color:blue;
+
+}
+
+p {
+	font-family:arial;
+	font-size:16pt;
+	color:black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr{
+    background-color: aliceblue;
+}
+tr:nth-child(even){background-color: #f2f2f2;}
+
+th {
+    background-color:#08f;
+    color: white;
+}
+
+label {
+    font-family: arial;
+    font-size: 12pt;
+}
+
+input {
+	margin:10px;
+}

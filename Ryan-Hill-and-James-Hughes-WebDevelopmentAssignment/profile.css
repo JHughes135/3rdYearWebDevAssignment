@@ -1,0 +1,90 @@
+
+.profile{
+  width: 55%;
+  height: 100%;
+  margin: 45px;
+  background-color: lightblue;
+
+}
+
+.details{
+
+  width: 25%;
+  height: 100%;
+  margin-left: 15px;
+  float: left;
+}
+
+p2{
+
+  font-size:20px;
+
+}
+
+h2{
+  color:#08f;
+}
+
+.name{
+
+  float:left;
+  font-size:16px;
+  width:100%;
+
+}
+
+.address{
+
+  float: left;
+  margin-bottom: 15px;
+  width: 100%;
+
+}
+.email{
+  float: left;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.phone{
+
+}
+
+.image
+{
+  float: right;
+  margin-right: 45%;
+  margin-top: 5%;
+  height:20px;
+  width:15%;
+  background-color: blue;
+
+}
+
+ul {
+    background-color:#08f;
+	width:100%;
+	list-style-type:none;
+    margin:0px;
+    padding:0px;
+    overflow:hidden;
+	position:fixed;
+	top:0;
+}
+
+li a {
+
+    display:block;
+    color:white;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+}
+
+li a:hover {
+    background-color:#008;
+}
+
+li {
+    float:left;
+}
