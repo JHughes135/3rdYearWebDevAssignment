@@ -9,7 +9,7 @@
 -View profile with customer details and profile picture stored in db
 
 
-## Website admins can
+### Website admins can
 
 -update the inventory create/update/delete
 
