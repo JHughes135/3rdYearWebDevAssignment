@@ -1,4 +1,4 @@
-A website created for a pharmacy which allows users to 
+## A website created for a pharmacy which allows users to 
 
 -create an account
 
@@ -9,7 +9,7 @@ A website created for a pharmacy which allows users to
 -View profile with customer details and profile picture stored in db
 
 
-Website admins can
+## Website admins can
 
 -update the inventory create/update/delete
 
