@@ -1,4 +1,4 @@
-## A website created for a pharmacy which allows users to 
+### A website created for a pharmacy which allows users to 
 
 -create an account
 
